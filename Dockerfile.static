@@ -28,6 +28,6 @@ LABEL io.vcweb.schema-version="1.0" \
       io.vcweb.base="image.wrapper" \
       io.vcweb.build="modeco" \
       io.vcweb.label="package.ingest_journal - ModEco" \
-      io.vcweb.description="The ingest module package." \
+      io.vcweb.description="The ModEco ingest module package based on journalbeat.  " \
       io.vcweb.docker.cmd.help="docker run vcwebio/modeco.package.ingest_journal --help"
 ##### END modeco/Dockerfile/env-labels-footer #####
